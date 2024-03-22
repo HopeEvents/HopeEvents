@@ -6,7 +6,3 @@
 .shadow-lg {
    box-shadow: 0 0rem 0rem rgba(0, 0, 0, 0.175) !important;   
 } 
-
-.pagebreak {
-   page-break-after: always;
-}
